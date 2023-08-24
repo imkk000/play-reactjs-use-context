@@ -1,0 +1,14 @@
+#add-task {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 5px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#add-task > button {
+  margin-top: 5px;
+  border: 1px solid green;
+  background-color: lightyellow;
+}

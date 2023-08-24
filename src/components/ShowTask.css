@@ -1,0 +1,14 @@
+.task {
+  width: 40%;
+  border: 1px solid black;
+  margin: 5px;
+}
+
+.task-actions {
+  border: 1px solid red;
+  float: inline-end;
+}
+
+.task-details {
+  border: 1px solid blue;
+}
